@@ -1,3 +1,6 @@
-WHAT IS LINEAR REGRESSION?
+WHAT IS LINEAR REGRESSION?  
+ANS :: A  Casual Relationship between two or variables which is represented by a line. (Casual Relationship = one variable affects other variable) for ex: The weight of the person linearly depend upon thier height 
 HOW IT WORKS?
+ANS :: 1. Get the trainig data/ sample data 2. Design a model using an independent variable to predict the values of dependent variable. 3.Make the predictions.
 WHAT IS THE OUTCOME?
+ANS :: The outcome should be approx to the dependent variable or the dependent variable itself.
